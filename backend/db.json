@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "iPhone 13 Prod",
+      "price": "999",
+      "id": 1
+    },
+    {
+      "name": "Dell ALIENWARE AURORA RYZEN GAMING DESKTOP",
+      "price": "1000",
+      "id": 2
+    }
+  ]
+}
